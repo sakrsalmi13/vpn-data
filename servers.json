@@ -1,17 +1,11 @@
 {
-  "version": 8.7,
+  "version": 8.0,
   "servers": [
     {
-      "country": "SA",
-      "network": "JAWWY FREE OVPN 🇸🇦",
-      "config": "SSH_PAYLOAD|CF|abu.mazen7.de5.net|104.16.82.57|443|GET /cdn-cgi/trace HTTP/1.1[crlf]Host: 104.16.82.57[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: abu.mazen7.de5.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]|abu.mazen7.de5.net|shaker2030|YiPe8v9Dw6",
-      "subtitle": "SSH Connection"
-    },
-    {
-      "country": "SA",
-      "network": "STC FREE OVPN 🇸🇦",
-      "config": "SSH_PAYLOAD|CF|abu.mazen7.de5.net|172.65.90.47|443|GET /cdn-cgi/trace HTTP/1.1[crlf]Host: 172.65.90.47[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: abu.mazen7.de5.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]|abu.mazen7.de5.net|shaker2030|YiPe8v9Dw6",
-      "subtitle": "SSH Connection"
+      "country": "FR",
+      "network": "STC FREE 🔥🇸🇦",
+      "config": "SSH_PAYLOAD|CF|ye.sohaib.cc.cd|172.65.90.47|443|GET /cdn-cgi/trace HTTP/1.1[crlf]Host: 172.65.90.47[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: ye.sohaib.cc.cd[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]|ye.sohaib.cc.cd|sohaib0|@C_H_B_S",
+      "subtitle": "STC FREE SOHAIB 🇾🇪"
     }
   ]
 }
